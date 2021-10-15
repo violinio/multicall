@@ -1,1 +1,10 @@
-/out
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts
+deployments
+
+coverage
+coverage.json
